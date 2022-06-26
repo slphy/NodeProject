@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/slphy/NodeProject/issues"
   },
-  "homepage": "https://github.com/slphy/NodeProject#readme"
+  "homepage": "https://github.com/slphy/NodeProject#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
